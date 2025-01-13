@@ -4,8 +4,8 @@ E-commerce website in HTML, CSS and JavaScript. Aimed to be a markeplace focused
 
 ## Features
 
-- **User Authentication**: Registration and login system for users.
-- **Product Listing**: Sellers can submit product information for review, including image uploads.
+- **User Authentication**: Registration and login system for users using Firebase Athentication.
+- **Product Listing**: Sellers can submit product information for review, using Firestore Databse to store the product information.
 - **Approval Process**: Admin panel for reviewing and approving product.
 - **Search and Filter**: Search functionality with filters for approved items.
 - **Favorites**: Users can save items to favorites for future review.
